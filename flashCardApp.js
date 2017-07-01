@@ -49,7 +49,7 @@ function askQuestion(){
 
         //Show the correct Answer
         console.log(closeQuestions[currentQuestion].full);
-        console.log("---------------------------------\n");
+        console.log("-------------------------------------\n");
 
         //move onto next question
         if (currentQuestion < closeQuestions.length - 1) {

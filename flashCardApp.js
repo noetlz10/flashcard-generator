@@ -20,7 +20,7 @@ for (var i = 0; i < questions.length; i++) {
 var currentQuestion = 0;
 //How many questions the user has gotten right
 var rightAnswer = 0;
-//Hoe man questions the user has gotten wrong
+//How many questions the user has gotten wrong
 var wrongAnswer = 0;
 
 //askQuestion prompts user to answer a give cloze-deleted question
